@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_user">name user</string>
+    <string name="description_user">description user</string>
+    <string name="welcome_to_app">Welcome to Story App</string>
+    <string name="description_app_1">Don\'t forget to log in so you can enter this application</string>
+    <string name="description_app_2">don\'t have account?</string>
+    <string name="description_app_3">Sign In Story App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_2">Go to Login</string>
+    <string name="sigin">Sign In</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="map">Map</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Log Out</string>
+    <string name="set_your_location">Set Your Location(Opsional)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+</resources>
